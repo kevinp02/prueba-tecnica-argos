@@ -16,3 +16,7 @@ Azure API Management: Es altamente personalizable a las necesidades de un proyec
 Azure Key Vault: Otro servicio del conjunto de servicios en la nube de Azure que nos permite encriptar o enmascarar cadenas de conexión u otras llaves secretas o de acceso, es fácilmente integrable con otros servicios de Azure y ofrece alta escalabilidad.
 
 Azure Cosmos DB (API SQL): Es ideal utilizar Cosmos DB de Azure debido a que se integra eficientemente con otro servicios en la nube de Azure, además permite escalabilidad, confiabilidad y rendimientos necesarios para la carga de este proyecto así como también permite alta configurabilidad que se ajuste no solo a las necesidades del proyecto sino además a las necesidad temporales gracias a su capacidad de actuar bajo demanda, por lo que su coste es bastante flexible, cuenta también con otras herramientas propias de los servicios en la nube de Azure como análisis en tiempo real y alta disponibilidad 
+
+![alt text](https://github.com/kevinp02/prueba-tecnica-argos/blob/main/arquitectura.drawio.png)
+
+![alt text](https://github.com/kevinp02/prueba-tecnica-argos/blob/main/er.drawio.png)
